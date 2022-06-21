@@ -72,5 +72,5 @@ buildscript {
   classpath("androidx.navigation:navigation-safe-args-gradle-plugin:2.4.2")  
   }  
 } 
-
-<img width="190"  src="[https://github.com/visakhc/emergenC/blob/2eb6a940620cd69ef9f8ee1f19038ee53d318b61/screenshots/admin_sc.jpg](https://github.com/Mr-Sarath/My_Pagination/blob/cda0a9a1212cca35ef1ffda67e3bce0cd270d29d/sample%20pictures/Screenshot_20220621_143637.jpg)">
+ 
+<img width="190"  src="https://github.com/Mr-Sarath/My_Pagination/blob/master/sample%20pictures/Screenshot_20220621_143637.jpg"><br>
